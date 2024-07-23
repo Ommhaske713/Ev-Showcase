@@ -1,0 +1,127 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 120px;
+    color: white;
+
+}
+.nav-logo{
+    font-family: Outfit;
+    font-size: 45px;
+    font-weight: 500;
+
+}
+.nav-menu{
+    /* width: 100%; */
+    border: none;
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 18px;
+    gap: 50px;
+    /* box-shadow: 0 0px 5px wheat; */
+    border-radius: 50px;
+    /* margin: -5px -100px 15px 1px; */
+    margin: -5px -63px 39px -55px;
+}
+.list-home{
+    cursor: pointer;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 0 2px 5px wheat;
+    width: 7vw;
+    height: 4vh;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+    border-radius: 30px;
+    margin-right: 5px;
+    transition: all 0.3s ease;
+    margin: 3px 724px 3px 4px;
+    padding-left: 0;
+    padding-right: 0;
+
+}
+.list-about{
+    cursor: pointer;
+    box-shadow: 0 2px 5px wheat;
+    width: 7vw;
+    height: 4vh;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+    border-radius: 30px;
+    transition: all 0.3s ease;
+
+  
+}
+.list-explore{
+    cursor: pointer;
+    box-shadow: 0 2px 5px wheat;
+    width: 7vw;
+    height: 4vh;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+    border-radius: 30px;
+    transition: all 0.3s ease;
+
+
+}
+
+.nav-contact {
+    cursor: pointer;
+    box-shadow: 0 2px 5px wheat;
+    width: 7vw;
+    height: 4vh;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+    border-radius: 30px;
+    transition: all 0.3s ease;
+    /* margin-right: 30px; */
+   
+}
+.nav-contact:hover {
+    background-color: #9b9b9b;;/* Example background color change */
+    color: white; /* Example text color change */
+    transform: scale(1.1); /* Example scaling effect */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Example box-shadow change */
+    color:white;
+    font-size:medium ;
+
+}
+.list-explore:hover {
+    background-color: #9b9b9b;;/* Example background color change */
+    color: white; /* Example text color change */
+    transform: scale(1.1); /* Example scaling effect */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Example box-shadow change */
+    color:white;
+    font-size:medium ;
+
+}
+.list-about:hover {
+    background-color: #9b9b9b;;/* Example background color change */
+    color: white; /* Example text color change */
+    transform: scale(1.1); /* Example scaling effect */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Example box-shadow change */
+    color:white;
+    font-size:medium;
+
+}
+.list-home:hover {
+    background-color: #9b9b9b;;/* Example background color change */
+    color: white; /* Example text color change */
+    transform: scale(1.1); /* Example scaling effect */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Example box-shadow change */
+    color:white;
+    font-size:medium ;
+
+}
+/* margin: 1px 1x 2px 1px;
+margin: 3px 720px 3px 4px; */
