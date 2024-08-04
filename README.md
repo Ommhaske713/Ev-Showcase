@@ -4,7 +4,8 @@ This project is an EV (Electric Vehicle) Showcase website designed to provide in
 
 Usage
 
-Visit in your browser to view the website.
+
+Visit https://evshowcaseby-om.netlify.app/ in your browser to view the website.
 Explore the various sections to learn more about electric vehicles.
 Use the comparison tool to compare different EV models.
 Currently, two official plugins are available:
